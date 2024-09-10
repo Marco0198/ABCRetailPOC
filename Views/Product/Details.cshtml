@@ -1,0 +1,20 @@
+﻿@model ABCRetailPOC.Models.Product ;
+
+<h2>Details</h2>
+
+<div>
+    <h4>Name</h4>
+    <p>@Model.Name</p>
+    <h4>Description</h4>
+    <p>@Model.Description</p>
+    <h4>Price</h4>
+    <p>@Model.Price</p>
+    <h4>Quantity</h4>
+    <p>@Model.Quantity</p>
+</div>
+
+<p>
+    <a asp-action="Edit" asp-route-partitionKey="@Model.PartitionKey" asp-route-rowKey="@Model.RowKey">Edit</a> |
+    <a asp-action="Delete" asp-route-partitionKey="@Model.PartitionKey" asp-route-rowKey="@Model.RowKey">Delete</a> |
+    <a asp-action="Index">Back to List</a>
+</p>

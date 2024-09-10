@@ -1,3 +1,12 @@
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.csproj.AssemblyReference.cache
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.AssemblyInfoInputs.cache
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.AssemblyInfo.cs
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.csproj.CoreCompileInputs.cache
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.RazorAssemblyInfo.cache
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.RazorAssemblyInfo.cs
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.sourcelink.json
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\bin\Debug\net8.0\appsettings.json
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\bin\Debug\net8.0\ABCRetailPOC.staticwebassets.runtime.json
@@ -6,13 +15,8 @@ C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\bin\Debug\net8.0\ABCRetailPOC.dep
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\bin\Debug\net8.0\ABCRetailPOC.runtimeconfig.json
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\bin\Debug\net8.0\ABCRetailPOC.dll
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\bin\Debug\net8.0\ABCRetailPOC.pdb
-C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.AssemblyInfoInputs.cache
-C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.AssemblyInfo.cs
-C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.csproj.CoreCompileInputs.cache
-C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.RazorAssemblyInfo.cache
-C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.RazorAssemblyInfo.cs
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\bin\Debug\net8.0\Microsoft.WindowsAzure.Storage.dll
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\staticwebassets\msbuild.ABCRetailPOC.Microsoft.AspNetCore.StaticWebAssets.props
@@ -23,6 +27,7 @@ C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\staticwebassets.
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\scopedcss\bundle\ABCRetailPOC.styles.css
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\scopedcss\projectbundle\ABCRetailPOC.bundle.scp.css
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetai.FF776E50.Up2Date
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.dll
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\refint\ABCRetailPOC.dll
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.pdb

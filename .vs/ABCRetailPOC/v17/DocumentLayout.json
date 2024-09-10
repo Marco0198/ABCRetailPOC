@@ -1,7 +1,60 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|c:\\users\\tshim\\onedrive\\documents\\abcretailpoc\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|c:\\users\\tshim\\onedrive\\documents\\abcretailpoc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|c:\\users\\tshim\\onedrive\\documents\\abcretailpoc\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|c:\\users\\tshim\\onedrive\\documents\\abcretailpoc\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|c:\\users\\tshim\\onedrive\\documents\\abcretailpoc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|c:\\users\\tshim\\onedrive\\documents\\abcretailpoc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|c:\\users\\tshim\\onedrive\\documents\\abcretailpoc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|c:\\users\\tshim\\onedrive\\documents\\abcretailpoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|c:\\users\\tshim\\onedrive\\documents\\abcretailpoc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|c:\\users\\tshim\\onedrive\\documents\\abcretailpoc\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|solutionrelative:services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|c:\\users\\tshim\\onedrive\\documents\\abcretailpoc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|c:\\users\\tshim\\onedrive\\documents\\abcretailpoc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|c:\\users\\tshim\\onedrive\\documents\\abcretailpoc\\abcretailpoc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E723FF78-6FB2-4947-91DD-6EE7B78F04DA}|ABCRetailPOC.csproj|solutionrelative:abcretailpoc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +62,168 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T09:56:09.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T09:55:05.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T09:54:15.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T09:33:15.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T09:18:53.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T09:06:21.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:55:19.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T08:51:23.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:49:34.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TableStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Services\\TableStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\TableStorageService.cs",
+              "ToolTip": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Services\\TableStorageService.cs",
+              "RelativeToolTip": "Services\\TableStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:48:21.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ABCRetailPOC.csproj",
+              "DocumentMoniker": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\ABCRetailPOC.csproj",
+              "RelativeDocumentMoniker": "ABCRetailPOC.csproj",
+              "ToolTip": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\ABCRetailPOC.csproj",
+              "RelativeToolTip": "ABCRetailPOC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T08:47:03.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:45:47.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\tshim\\OneDrive\\Documents\\ABCRetailPOC\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T08:24:06.363Z"
             }
           ]
         }

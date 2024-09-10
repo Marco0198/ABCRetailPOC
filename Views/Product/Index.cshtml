@@ -1,0 +1,36 @@
+﻿@model List<ABCRetailPOC.Models.Product> ;
+
+
+<h2>Products</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Description</td>
+                <td>@product.Price</td>
+                <td>@product.Quantity</td>
+                <td>
+                    <a asp-action="Details" asp-route-partitionKey="@product.PartitionKey" asp-route-rowKey="@product.RowKey">Details</a> |
+                    <a asp-action="Edit" asp-route-partitionKey="@product.PartitionKey" asp-route-rowKey="@product.RowKey">Edit</a> |
+                    <a asp-action="Delete" asp-route-partitionKey="@product.PartitionKey" asp-route-rowKey="@product.RowKey">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

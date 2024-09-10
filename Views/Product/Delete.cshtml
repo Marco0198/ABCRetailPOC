@@ -1,0 +1,21 @@
+﻿@model ABCRetailPOC.Models.Product
+
+<h2>Delete</h2>
+
+<div>
+    <h4>Name</h4>
+    <p>@Model.Name</p>
+    <h4>Description</h4>
+    <p>@Model.Description</p>
+    <h4>Price</h4>
+    <p>@Model.Price</p>
+    <h4>Quantity</h4>
+    <p>@Model.Quantity</p>
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="PartitionKey" />
+    <input type="hidden" asp-for="RowKey" />
+    <input type="submit" value="Delete" class="btn btn-danger" />
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
