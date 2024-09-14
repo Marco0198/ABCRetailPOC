@@ -33,3 +33,10 @@ C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\refint\ABCRetail
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.pdb
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ABCRetailPOC.genruntimeconfig.cache
 C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\obj\Debug\net8.0\ref\ABCRetailPOC.dll
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\tshim\OneDrive\Documents\ABCRetailPOC\bin\Debug\net8.0\System.Memory.Data.dll

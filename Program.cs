@@ -1,7 +1,12 @@
+using ABCRetailPOC.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddSingleton(new BlobStorageService(
+    builder.Configuration.GetValue<string>("AzureBlobStorage:ConnectionString"),
+    "images"));
 
 var app = builder.Build();
 

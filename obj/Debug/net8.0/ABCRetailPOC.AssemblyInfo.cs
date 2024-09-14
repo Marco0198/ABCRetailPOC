@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ABCRetailPOC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+154c53e6558f6186280d0bef8e6f88ad2ab416d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e64ea6f913c73256480d338c1268521f025d5a61")]
 [assembly: System.Reflection.AssemblyProductAttribute("ABCRetailPOC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ABCRetailPOC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

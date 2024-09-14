@@ -10,8 +10,7 @@ namespace ABCRetailPOC.Controllers
 
         public ProductController()
         {
-            string connectionString = "";
-            //DefaultEndpointsProtocol=https;AccountName=st10458148;AccountKey=BvcUpjKGDaJgfPh9Qm2VNyS4WFkDCy/PQxrl8VR3YDXXBqm5iRS+vHCqSMV3Xd2+QKMRbftyttML+AStzRuwAw==;EndpointSuffix=core.windows.net;BlobEndpoint=https://st10458148.blob.core.windows.net/;FileEndpoint=https://st10458148.file.core.windows.net/;QueueEndpoint=https://st10458148.queue.core.windows.net/;TableEndpoint=https://st10458148.table.core.windows.net/
+            string connectionString = "DefaultEndpointsProtocol=https;AccountName=st10458148;AccountKey=BvcUpjKGDaJgfPh9Qm2VNyS4WFkDCy/PQxrl8VR3YDXXBqm5iRS+vHCqSMV3Xd2+QKMRbftyttML+AStzRuwAw==;EndpointSuffix=core.windows.net;BlobEndpoint=https://st10458148.blob.core.windows.net/;FileEndpoint=https://st10458148.file.core.windows.net/;QueueEndpoint=https://st10458148.queue.core.windows.net/;TableEndpoint=https://st10458148.table.core.windows.net/";
             string tableName = "Products";
             storageService = new TableStorageService(connectionString, tableName);
         }
